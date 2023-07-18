@@ -11,6 +11,7 @@
 - 🎓 &nbsp; A Electronics And Communication Student
 - 🔭 &nbsp; Tech Enthusiast
 - 🌱 &nbsp; I’m currently learning **Java and SQL**
+- 📫 &nbsp; How to reach me: vedanttaori@yahoo.com
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
 <img align="left" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -20,7 +21,7 @@
 - 🔧 &nbsp; Visual Studio code | IntelliJ IDEA | Git | MATLAB | Arduino 
 
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics :
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="25"> Statistics :
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vedanttaori&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanttaori&layout=donut&show_icons=true&theme=radical" />
 

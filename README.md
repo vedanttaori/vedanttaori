@@ -11,7 +11,7 @@
 - 🎓 &nbsp; A Electronics And Communication Student
 - 🔭 &nbsp; Tech Enthusiast
 - 🌱 &nbsp; I’m currently learning **Java and SQL**
-- 📫 &nbsp; How to reach me: vedanttaori@yahoo.com
+- 📫 &nbsp; How to reach me: vedanttaori9@gmail.com
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
 <img align="left" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
